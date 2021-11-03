@@ -1,0 +1,20 @@
+}
+  "users": [
+    {
+      "id": 1,
+      "user": "cm.flores",
+      "password": "0000",
+      "nombre": "Camilo Flores",
+      "mail": "cm.flores@duocuc.cl",
+      "carrera": "Ing. Informática"
+    },
+    {
+      "id": 2,
+      "user": "rosa.sepulveda",
+      "password": "1111",
+      "nombre": "Rosario Sepúlveda",
+      "mail": "rosa.sepulveda@duocuc.cl",
+      "carrera": "Ing. Informática"
+    }
+  ]
+}
