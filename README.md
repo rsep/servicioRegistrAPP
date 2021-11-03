@@ -3,8 +3,4 @@ Repositorio para almacenar el JSON que carga la data (asistencias y usuarios) de
 
 
 
-
-http://rsep.github.io/servicioRegistrAPP/db.json
-
-
-ad
+JSON (users & attends) = /db.json
